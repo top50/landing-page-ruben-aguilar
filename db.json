@@ -1,0 +1,52 @@
+{
+  "datospersonales" : [ 
+      {
+      "id":"panorama",
+        "nombre":"Panorama del San Jorge",
+        "icon":"language",
+        "link": "https://www.panoramadelsanjorge.com.co/"
+      },
+     {
+      "id":"sigloxxi",
+        "nombre":"XXI Radio",
+        "icon":"language",
+        "link": "https://xxiradio.co/"
+      },
+     {
+      "id":"snoticias",
+        "nombre":"SNoticias",
+        "icon":"language",
+        "link": "https://snoticias.com.co/"
+      },
+      {
+          "id":"elconeo",
+        "nombre":"El Coneo",
+        "icon":"language",
+        "link": "https://elconeo.com/"
+      },
+    {
+      "id":"notipregonar",
+        "nombre":"Noti Pregonar",
+        "icon":"language",
+        "link": "https://notipregonar.com.co/"
+      },
+     {
+      "id":"rionoticias",
+        "nombre":"Rio Noticias",
+        "icon":"language",
+        "link": "https://rionoticias.co/"
+      },
+     {
+      "id":"sintesisradio",
+        "nombre":"Sintesis Radio",
+        "icon":"language",
+        "link": "https://sintesisradio.co/"
+      },
+     {
+      "id":"emisoramix",
+        "nombre":"Emisora Mix",
+        "icon":"language",
+        "link": "https://emisoramix.co/"
+      }
+    ]
+}
