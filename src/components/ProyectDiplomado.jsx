@@ -38,7 +38,7 @@ const proyecdiplomado=[
 {id:"9",
 nombre:"Landing Pages con React js",
 imagen:"https://firebasestorage.googleapis.com/v0/b/api-doc-9a9e4.appspot.com/o/landing.jpg?alt=media&token=41563bc3-d21d-4801-8e39-6619034096ea",
-gitHut:"",
+gitHut:"https://github.com/top50/landing-page-ruben-aguilar",
 netlify:"",
 }
 ]

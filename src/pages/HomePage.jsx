@@ -17,7 +17,7 @@ const HomePage = () => {
   boton={<Link to ="../Informacion">Leer mas..</Link>}
   />
   <CarImagen
-  imagen={<img src={logoPerfil} className="h-full w-full md:w-32 lg:w-full"/>} 
+  imagen={<img src={logoPerfil} className="h-full w-full mb-4 md:w-32 lg:w-full"/>} 
   
   
   />

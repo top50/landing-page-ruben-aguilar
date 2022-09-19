@@ -1,12 +1,12 @@
 import './App.css'
-import Header from './components/Header'
+import Footer from './components/Footer'
 import AppNavigator from './router/AppNavigator'
 
 function App() {
    return (
-    <main className="flex flex-col w-full h-auto">
+    <main className="flex flex-col w-full h-screen">
      <AppNavigator /> 
-     <Header />
+     <Footer />
     </main>
   )
 }
